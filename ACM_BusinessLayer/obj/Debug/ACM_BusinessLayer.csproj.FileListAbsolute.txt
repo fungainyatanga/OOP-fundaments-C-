@@ -1,0 +1,9 @@
+C:\Users\fnyatanga\source\repos\ACM\ACM_BusinessLayer\bin\Debug\ACM_BusinessLayer.dll
+C:\Users\fnyatanga\source\repos\ACM\ACM_BusinessLayer\bin\Debug\ACM_BusinessLayer.pdb
+C:\Users\fnyatanga\source\repos\ACM\ACM_BusinessLayer\obj\Debug\ACM_BusinessLayer.csprojAssemblyReference.cache
+C:\Users\fnyatanga\source\repos\ACM\ACM_BusinessLayer\obj\Debug\ACM_BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\fnyatanga\source\repos\ACM\ACM_BusinessLayer\obj\Debug\ACM_BusinessLayer.dll
+C:\Users\fnyatanga\source\repos\ACM\ACM_BusinessLayer\obj\Debug\ACM_BusinessLayer.pdb
+C:\Users\fnyatanga\source\repos\ACM\ACM_BusinessLayer\bin\Debug\Acme.Common.dll
+C:\Users\fnyatanga\source\repos\ACM\ACM_BusinessLayer\bin\Debug\Acme.Common.pdb
+C:\Users\fnyatanga\source\repos\ACM\ACM_BusinessLayer\obj\Debug\ACM_BusinessLayer.csproj.CopyComplete
